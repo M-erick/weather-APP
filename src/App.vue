@@ -81,13 +81,14 @@ body {
   font-family: "montserrat", sans-serif;
 }
 #app {
+background-image: url('assets/cold.jpg');
   background-image: url();
   background-size: cover;
   background-position: bottom;
   transition: 0.4s;
 }
 #app.warn {
-background-image: url();
+background-image: url('assets/sunset.jpg');
 } 
 
 main {
