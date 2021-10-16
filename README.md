@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+ ###  Weather API 
+ ```
+ Get a generated API key from openweathermap.org
+ ```
